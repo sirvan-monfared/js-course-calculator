@@ -1,3 +1,3 @@
-# TailwindCSS Login Template
+# laraplus.ir Js Course Calculator Template
 
-<img src="./screenshot.png" alt="Login Template Screenshot">
+<img src="./screenshot.png" alt="laraplus.ir Js Course Calculator Template">
